@@ -5,7 +5,6 @@ const Movie = ({name, url}) => {
         <>
         <li>
             <a href={url}>{name}</a>
-            
         </li>
         </>
 
