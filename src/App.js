@@ -1,8 +1,9 @@
 import './App.css';
+import ReleaseBox from './containers/ReleaseBox';
 
 function App() {
   return (
-    
+    <ReleaseBox/>
   );
 }
 
